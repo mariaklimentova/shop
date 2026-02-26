@@ -111,7 +111,7 @@
   color: var(--black-color);
 }
 
-.header__menu-btn: {
+.header__menu-btn {
     color: var(--black-color);
   }
 
@@ -233,5 +233,6 @@
 .header__action-icon {
   fill: currentColor;
 }
+
 
 
