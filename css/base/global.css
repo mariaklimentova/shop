@@ -85,7 +85,7 @@ input::placeholder {
     color var(--transition-time);
 }
 
-@media (width > 768px) {
+@media (width <= 768px) {
   .button {
     font-size: 14px;
   }
@@ -169,4 +169,5 @@ input::placeholder {
 .swiper {
   width: auto;
   height: auto;
+
 }
