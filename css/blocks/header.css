@@ -112,7 +112,7 @@
 }
 
 .header__menu-btn: {
-    color: var(--transparent-color-input-text);
+    color: var(--black-color);
   }
 
 @media (any-hover: hover) {
@@ -220,8 +220,8 @@
   }
 }
 
-..header__action-btn {
-  color: var(--transparent-color-input-text);
+.header__action-btn {
+  color: var(--black-color);
 }
 
 @media (any-hover: hover) {
@@ -233,4 +233,5 @@
 .header__action-icon {
   fill: currentColor;
 }
+
 
