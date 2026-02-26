@@ -111,6 +111,10 @@
   color: var(--black-color);
 }
 
+.header__menu-btn: {
+    color: var(--transparent-color-input-text);
+  }
+
 @media (any-hover: hover) {
   .header__menu-link:hover {
     color: var(--hover-color);
@@ -216,6 +220,10 @@
   }
 }
 
+..header__action-btn {
+  color: var(--transparent-color-input-text);
+}
+
 @media (any-hover: hover) {
   .header__action-btn:hover {
     color: var(--hover-color);
@@ -225,3 +233,4 @@
 .header__action-icon {
   fill: currentColor;
 }
+
