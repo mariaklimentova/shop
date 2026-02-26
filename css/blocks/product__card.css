@@ -1,5 +1,5 @@
 .products-card__wrapper {
-    margin-bottom: 55px;
+    margin-top: 55px;
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(174px, 1fr));
@@ -162,3 +162,4 @@
   }
 
 }
+
